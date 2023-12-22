@@ -9,4 +9,4 @@ CREATE TABLE Users (
 );
 
 INSERT INTO Users (ID, Username, Password)
-VALUES (1, 'admin', 'P@ssw0rd123');
+VALUES (1, 'admin', '**REDACTED!**');
